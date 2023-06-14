@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Sexdimension-War/static/css/main.0aebc8a4.css",
-    "main.js": "/Sexdimension-War/static/js/main.0458433b.js",
+    "main.css": "/Sexdimension-War/static/css/main.fa15c6ac.css",
+    "main.js": "/Sexdimension-War/static/js/main.9f2bd89d.js",
+    "static/media/minisex.png": "/Sexdimension-War/static/media/minisex.b287f66c0fb05278e68b.png",
     "static/media/1.png": "/Sexdimension-War/static/media/1.16fdfa11a2ac70426c00.png",
     "static/media/cardt.png": "/Sexdimension-War/static/media/cardt.73b4da15a7f248a607d9.png",
     "index.html": "/Sexdimension-War/index.html",
-    "main.0aebc8a4.css.map": "/Sexdimension-War/static/css/main.0aebc8a4.css.map",
-    "main.0458433b.js.map": "/Sexdimension-War/static/js/main.0458433b.js.map"
+    "main.fa15c6ac.css.map": "/Sexdimension-War/static/css/main.fa15c6ac.css.map",
+    "main.9f2bd89d.js.map": "/Sexdimension-War/static/js/main.9f2bd89d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aebc8a4.css",
-    "static/js/main.0458433b.js"
+    "static/css/main.fa15c6ac.css",
+    "static/js/main.9f2bd89d.js"
   ]
 }
