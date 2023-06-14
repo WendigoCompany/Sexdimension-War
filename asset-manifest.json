@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sexdimension-War/static/css/main.a2fadd32.css",
-    "main.js": "/Sexdimension-War/static/js/main.6d0f7665.js",
+    "main.css": "/Sexdimension-War/static/css/main.643434c2.css",
+    "main.js": "/Sexdimension-War/static/js/main.75e41d60.js",
     "static/media/1.png": "/Sexdimension-War/static/media/1.16fdfa11a2ac70426c00.png",
     "index.html": "/Sexdimension-War/index.html",
-    "main.a2fadd32.css.map": "/Sexdimension-War/static/css/main.a2fadd32.css.map",
-    "main.6d0f7665.js.map": "/Sexdimension-War/static/js/main.6d0f7665.js.map"
+    "main.643434c2.css.map": "/Sexdimension-War/static/css/main.643434c2.css.map",
+    "main.75e41d60.js.map": "/Sexdimension-War/static/js/main.75e41d60.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fadd32.css",
-    "static/js/main.6d0f7665.js"
+    "static/css/main.643434c2.css",
+    "static/js/main.75e41d60.js"
   ]
 }
